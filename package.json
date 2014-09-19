@@ -1,0 +1,24 @@
+{
+  "name": "zetta-http-device",
+  "version": "0.1.0",
+  "description": "An HTTP device class for Zetta.",
+  "main": "http_device.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zettajs/zetta-http-device.git"
+  },
+  "keywords": [
+    "zetta",
+    "http",
+    "device"
+  ],
+  "author": "Kevin Swiber <kswiber@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zettajs/zetta-http-device/issues"
+  },
+  "homepage": "https://github.com/zettajs/zetta-http-device"
+}
