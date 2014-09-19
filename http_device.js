@@ -1,5 +1,5 @@
 var util = require('util');
-var Device = require('./device');
+var Device = require('zetta-device');
 
 var HttpDevice = module.exports = function() {
   Device.call(this);
